@@ -6,7 +6,7 @@ public class childsum extends Parentsum1 {
 
 	
 	public static void main(String args[]){
-		
+		// adding new line
 		TreeMap tmap = new TreeMap();
 		tmap.put(1, 1);
 		tmap.put(2, 1);
